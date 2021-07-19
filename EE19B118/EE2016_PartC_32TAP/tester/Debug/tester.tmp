@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\Debug\tester.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>tester.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>tester.map</FILE>
+  <FILE>tester.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>10</LINE></start>
+  <FILTERCOEFFICIENTS><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>14</LINE></FILTERCOEFFICIENTS>
+  <BUFFER><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>15</LINE></BUFFER>
+  <SRAMRESULT><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>16</LINE></SRAMRESULT>
+  <SINE><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>265</LINE></SINE>
+  <TAP32><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>138</LINE></TAP32>
+  <COMPUTER><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>189</LINE></COMPUTER>
+  <LOADNEWDATAPOINT><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>162</LINE></LOADNEWDATAPOINT>
+  <ENDOFBUFFER><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>184</LINE></ENDOFBUFFER>
+  <GEN><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>180</LINE></GEN>
+  <REPEAT><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>200</LINE></REPEAT>
+  <RESETLOOPCOUNTER><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>225</LINE></RESETLOOPCOUNTER>
+  <REGULAR><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>219</LINE></REGULAR>
+  <ENDOFPOINT><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>232</LINE></ENDOFPOINT>
+  <NEXT><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>246</LINE></NEXT>
+  <THEEND><FILE>C:\Users\SHASHANK\Documents\Atmel Studio\7.0\tester\tester\main.asm</FILE><LINE>253</LINE></THEEND>
+ </LABELS>
+</ASSEMBLER_INFO>
